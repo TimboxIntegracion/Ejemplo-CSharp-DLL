@@ -1,0 +1,8 @@
+C:\Users\raul\Desktop\timbox-dll\TimboxTest\bin\Debug\TimboxTest.exe.config
+C:\Users\raul\Desktop\timbox-dll\TimboxTest\obj\Debug\TimboxTest.exe
+C:\Users\raul\Desktop\timbox-dll\TimboxTest\obj\Debug\TimboxTest.pdb
+C:\Users\raul\Desktop\timbox-dll\TimboxTest\bin\Debug\TimboxTest.exe
+C:\Users\raul\Desktop\timbox-dll\TimboxTest\bin\Debug\TimboxTest.pdb
+C:\Users\raul\Desktop\timbox-dll\TimboxTest\bin\Debug\TimboxLibrary.dll
+C:\Users\raul\Desktop\timbox-dll\TimboxTest\bin\Debug\TimboxLibrary.pdb
+C:\Users\raul\Desktop\timbox-dll\TimboxTest\obj\Debug\TimboxTestCSharp.csprojResolveAssemblyReference.cache
