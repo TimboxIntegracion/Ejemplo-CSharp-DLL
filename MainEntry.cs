@@ -29,8 +29,8 @@ namespace TimboxIntegracion.TimboxTest
             config.password = "h6584D56fVdBbSmmnB";
 
             // cer.pem file & key.pem file
-            config.cert_pem = File.ReadAllText("C:\\Users\\raul\\Desktop\\timbox-.net\\ejemplo-.net\\Archivos\\CSD01_AAA010101AAA.cer.pem");
-            config.llave_pem = File.ReadAllText("C:\\Users\\raul\\Desktop\\timbox-.net\\ejemplo-.net\\Archivos\\CSD01_AAA010101AAA.key.pem");
+            config.cert_pem = File.ReadAllText("C:\\Users\\Current User\\Your Files\\File.cer.pem");
+            config.llave_pem = File.ReadAllText("C:\\Users\\Current User\\Your Files\\File.key.pem");
 
             // Set the method to test
             string method = TimboxMethods.METHOD_TIMBRADO_CONSULTAR_RFC;
