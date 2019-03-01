@@ -175,13 +175,13 @@ Console.WriteLine(createrequestTimbrado.consultar_rfc(config));
 ````
 
 ## Cancelacion
- Para utilisar los métodos de cancelacion es necesario crear una instancia de la clase TimboxWebServicesCancelacion de la siguiente manera:
+ Para utilizar los métodos de cancelación es necesario crear una instancia de la clase TimboxWebServicesCancelacion de la siguiente manera:
  
 ````
  TimboxWebServicesCancelacion createrequestCancelacion = Create.createCancelacionRequest(Create.TYPE_TIMBRADO, Create.ENVIRONMENT_STAGING);
 ````
 
-Para la utilizacion de cualquier metodo debe haber una configuración previa, la cual contiene los datos con los que se realizara la petición: 
+Para la utilizacion de cualquier método debe haber una configuración previa, la cual contiene los datos con los que se realizará la petición: 
 
 ````
   TimboxWebServicesData config = new TimboxWebServicesData();
